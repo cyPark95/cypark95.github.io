@@ -4,7 +4,7 @@ title:  "블로그 첫 글 작성"
 summary: "오늘 블로그 만들었다!!"
 author: pcy
 date: '2023-09-18 16:28:33 +0530'
-category: study
+category: ['Study', 'Algorithm', 'Group', 'MySQL']
 thumbnail: /assets/img/posts/first_post.png
 comments: true
 ---
