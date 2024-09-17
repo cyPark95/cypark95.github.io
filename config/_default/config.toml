@@ -16,3 +16,6 @@ disqusShortname = "cypark95-blog"
 
 [pagination]
 pagerSize = 5
+
+[params]
+googleAnalytics = "G-287Z7TCVJE"
